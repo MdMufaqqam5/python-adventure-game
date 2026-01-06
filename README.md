@@ -23,6 +23,13 @@ An interactive text-based adventure game built using Python.
    ```bash
    python adventure_game.py
 
+## 🎥 Gameplay Video
+
+📌 Click below to watch the gameplay video:
+
+👉 [Watch Gameplay Video](Adventure_GamePlay.mp4)
+
+
 👤 Author
 
 Mohammed Mufaqqam Sanjar Ghori
