@@ -29,6 +29,22 @@ An interactive text-based adventure game built using Python.
 
 👉 [Watch Gameplay Video](Adventure_GamePlay.mp4)
 
+Every time you:
+1. Push code
+2. Update the repository
+
+GitHub will:
+1. Create a virtual Ubuntu machine
+
+2. Install Python
+
+3. Run your Python file
+
+4. Show success ❌ or errors ✅
+
+You can see results in:
+GitHub → Actions tab
+
 
 👤 Author
 
