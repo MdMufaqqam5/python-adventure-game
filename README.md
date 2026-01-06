@@ -22,3 +22,7 @@ An interactive text-based adventure game built using Python.
 3. Run:
    ```bash
    python adventure_game.py
+
+👤 Author
+
+Mohammed Mufaqqam Sanjar Ghori
